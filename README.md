@@ -1,5 +1,5 @@
 # Bank_loan_approval - data_solutions
-Bank loan data analysis by SQL
+Bank loan approval data analysis by SQL
 
 
 📂 SQL Solutions — Loan Approval Dataset
